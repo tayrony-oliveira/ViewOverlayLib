@@ -1,0 +1,12 @@
+C:\Git\ViewOverlayLib\bin\Release\net8.0\ViewOverlayLib.deps.json
+C:\Git\ViewOverlayLib\bin\Release\net8.0\ViewOverlayLib.dll
+C:\Git\ViewOverlayLib\bin\Release\net8.0\ViewOverlayLib.pdb
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.csproj.AssemblyReference.cache
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.AssemblyInfoInputs.cache
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.AssemblyInfo.cs
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.csproj.CoreCompileInputs.cache
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.dll
+C:\Git\ViewOverlayLib\obj\Release\net8.0\refint\ViewOverlayLib.dll
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ViewOverlayLib.pdb
+C:\Git\ViewOverlayLib\obj\Release\net8.0\ref\ViewOverlayLib.dll

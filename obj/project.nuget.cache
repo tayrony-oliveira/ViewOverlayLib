@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/4/q8DZyP8=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\ViewOverlayLib\\ViewOverlayLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayrony.oliveira\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}

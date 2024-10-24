@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ViewOverlayLib</id>
+    <version>1.0.0</version>
+    <title>ViewOverlayLib - Flexible Overlays for UI Interaction</title>
+    <authors>ViewOverlayLib</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/tayrony-oliveira/BlockingBoxView</projectUrl>
+    <description>ViewOverlayLib é uma biblioteca leve e flexível que permite a criação e gerenciamento de sobreposições de interface de usuário (UI) em projetos .NET MAUI. Com componentes simples, como o CardInteractionOverlay, você pode facilmente controlar interações e bloquear toques em cards e outros elementos visuais. Ideal para cenários onde você precisa proteger partes da UI enquanto realiza tarefas em segundo plano ou destaca seções específicas da tela.
+
+Funcionalidades:
+
+ * Sobreposições interativas: Adicione camadas de bloqueio sobre qualquer elemento de UI.
+ * Controle de interações: Bloqueie ou permita interações com base nas necessidades da aplicação.
+ * Fácil integração: Use bindables e eventos para integrar as sobreposições de maneira fluida no seu projeto.
+ * Componentes flexíveis: Com suporte para diferentes layouts e personalizações.
+
+Essa biblioteca é ideal para desenvolvedores que procuram uma maneira simples de gerenciar interações em apps .NET MAUI, proporcionando uma experiência de usuário mais dinâmica e controlada.</description>
+    <copyright>MIT License</copyright>
+    <tags>.NET MAUI Overlay UI User Interface Interaction Blocker Touch Blocker Card Overlay UI Components View Overlay Interaction Control Custom Controls Flexible UI Touch Guard Visual Layer UI Overlay</tags>
+    <repository type="git" url="https://github.com/tayrony-oliveira/BlockingBoxView" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Xamarin.Forms" version="5.0.0.2662" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Git\ViewOverlayLib\bin\Release\net8.0\ViewOverlayLib.dll" target="lib\net8.0\ViewOverlayLib.dll" />
+    <file src="C:\Git\ViewOverlayLib\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\Git\ViewOverlayLib\README.md" target="\README.md" />
+  </files>
+</package>

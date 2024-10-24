@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewOverlayLib", "ViewOverlayLib.csproj", "{653971DE-B1C9-4DB0-BFAC-6FC6E375E55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653971DE-B1C9-4DB0-BFAC-6FC6E375E55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653971DE-B1C9-4DB0-BFAC-6FC6E375E55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653971DE-B1C9-4DB0-BFAC-6FC6E375E55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653971DE-B1C9-4DB0-BFAC-6FC6E375E55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9865B4E-33D9-481C-AF0A-EC657D0F3F48}
+	EndGlobalSection
+EndGlobal

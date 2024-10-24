@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>ViewOverlayLib - Flexible Overlays for UI Interaction</Title>
+    <Description>ViewOverlayLib é uma biblioteca leve e flexível que permite a criação e gerenciamento de sobreposições de interface de usuário (UI) em projetos .NET MAUI. Com componentes simples, como o CardInteractionOverlay, você pode facilmente controlar interações e bloquear toques em cards e outros elementos visuais. Ideal para cenários onde você precisa proteger partes da UI enquanto realiza tarefas em segundo plano ou destaca seções específicas da tela.
+
+Funcionalidades:
+
+ * Sobreposições interativas: Adicione camadas de bloqueio sobre qualquer elemento de UI.
+ * Controle de interações: Bloqueie ou permita interações com base nas necessidades da aplicação.
+ * Fácil integração: Use bindables e eventos para integrar as sobreposições de maneira fluida no seu projeto.
+ * Componentes flexíveis: Com suporte para diferentes layouts e personalizações.
+
+Essa biblioteca é ideal para desenvolvedores que procuram uma maneira simples de gerenciar interações em apps .NET MAUI, proporcionando uma experiência de usuário mais dinâmica e controlada.</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/tayrony-oliveira/BlockingBoxView</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tayrony-oliveira/BlockingBoxView</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>.NET MAUI; Overlay; UI; User Interface; Interaction; Blocker; Touch Blocker; Card Overlay; UI Components; View Overlay; Interaction Control; Custom Controls; Flexible UI; Touch Guard; Visual Layer; UI Overlay</PackageTags>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2662" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
