@@ -50,9 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Xamarin.Forms": {
+            "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[5.0.0.2662, )"
+              "version": "[8.0.92, )"
             }
           },
           "imports": [

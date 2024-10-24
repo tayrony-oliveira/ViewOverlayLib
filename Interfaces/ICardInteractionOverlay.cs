@@ -1,6 +1,4 @@
-﻿using Xamarin.Forms;
-
-namespace ViewOverlayLib.Interfaces
+﻿namespace ViewOverlayLib.Interfaces
 {
     public interface ICardInteractionOverlay
     {

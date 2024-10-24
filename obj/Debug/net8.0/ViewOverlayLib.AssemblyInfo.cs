@@ -25,7 +25,7 @@ Funcionalidades:
 
 Essa biblioteca é ideal para desenvolvedores que procuram uma maneira simples de gerenciar interações em apps .NET MAUI, proporcionando uma experiência de usuário mais dinâmica e controlada.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a70663e29e1c3a93ae9bf5794df1a60f4fe3e3e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ViewOverlayLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ViewOverlayLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

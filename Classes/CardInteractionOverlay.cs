@@ -1,5 +1,4 @@
 ﻿using ViewOverlayLib.Interfaces;
-using Xamarin.Forms;
 
 namespace ViewOverlayLib.Classes
 {
@@ -26,7 +25,7 @@ namespace ViewOverlayLib.Classes
         public CardInteractionOverlay()
         {
             // Configurações do BoxView
-            BackgroundColor = Color.Transparent;
+            BackgroundColor = Colors.Transparent;
             HorizontalOptions = LayoutOptions.Fill;
             VerticalOptions = LayoutOptions.Fill;
             InputTransparent = false;  // Não deixa os toques passarem
@@ -48,10 +47,10 @@ namespace ViewOverlayLib.Classes
             control.IsVisible = isBlocked;
         }
 
-        private void OnCardTapped(object? sender, EventArgs e)
+        private void OnCardTapped(object? sender, TappedEventArgs e)
         {
             // Invoca o evento CardTapped, usando "this" como sender, pois o BoxView foi clicado
-            CardTapped?.Invoke(this, (TappedEventArgs)e);
+            CardTapped?.Invoke(this, e);
         }
     }
 }

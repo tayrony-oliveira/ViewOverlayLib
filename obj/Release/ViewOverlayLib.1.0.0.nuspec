@@ -6,7 +6,7 @@
     <title>ViewOverlayLib - Flexible Overlays for UI Interaction</title>
     <authors>ViewOverlayLib</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <license type="file">LICENSE.txt</license>
+    <license type="file">LICENSE</license>
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <readme>README.md</readme>
     <projectUrl>https://github.com/tayrony-oliveira/BlockingBoxView</projectUrl>
@@ -22,16 +22,16 @@ Funcionalidades:
 Essa biblioteca é ideal para desenvolvedores que procuram uma maneira simples de gerenciar interações em apps .NET MAUI, proporcionando uma experiência de usuário mais dinâmica e controlada.</description>
     <copyright>MIT License</copyright>
     <tags>.NET MAUI Overlay UI User Interface Interaction Blocker Touch Blocker Card Overlay UI Components View Overlay Interaction Control Custom Controls Flexible UI Touch Guard Visual Layer UI Overlay</tags>
-    <repository type="git" url="https://github.com/tayrony-oliveira/BlockingBoxView" />
+    <repository type="git" url="https://github.com/tayrony-oliveira/BlockingBoxView" commit="a70663e29e1c3a93ae9bf5794df1a60f4fe3e3e1" />
     <dependencies>
       <group targetFramework="net8.0">
-        <dependency id="Xamarin.Forms" version="5.0.0.2662" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.92" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
     <file src="C:\Git\ViewOverlayLib\bin\Release\net8.0\ViewOverlayLib.dll" target="lib\net8.0\ViewOverlayLib.dll" />
-    <file src="C:\Git\ViewOverlayLib\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\Git\ViewOverlayLib\LICENSE" target="\LICENSE" />
     <file src="C:\Git\ViewOverlayLib\README.md" target="\README.md" />
   </files>
 </package>

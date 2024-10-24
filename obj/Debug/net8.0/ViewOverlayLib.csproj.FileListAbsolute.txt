@@ -10,3 +10,4 @@ C:\Git\ViewOverlayLib\obj\Debug\net8.0\refint\ViewOverlayLib.dll
 C:\Git\ViewOverlayLib\obj\Debug\net8.0\ViewOverlayLib.pdb
 C:\Git\ViewOverlayLib\obj\Debug\net8.0\ref\ViewOverlayLib.dll
 C:\Git\ViewOverlayLib\obj\Debug\net8.0\ViewOverlayLib.csproj.AssemblyReference.cache
+C:\Git\ViewOverlayLib\obj\Debug\net8.0\ViewOverlayLib.sourcelink.json

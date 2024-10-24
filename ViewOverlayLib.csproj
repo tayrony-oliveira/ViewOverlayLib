@@ -22,15 +22,19 @@ Essa biblioteca é ideal para desenvolvedores que procuram uma maneira simples d
     <RepositoryUrl>https://github.com/tayrony-oliveira/BlockingBoxView</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>.NET MAUI; Overlay; UI; User Interface; Interaction; Blocker; Touch Blocker; Card Overlay; UI Components; View Overlay; Interaction Control; Custom Controls; Flexible UI; Touch Guard; Visual Layer; UI Overlay</PackageTags>
-    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2662" />
+    <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.92" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Update="LICENSE.txt">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
