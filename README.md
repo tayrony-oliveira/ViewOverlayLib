@@ -36,7 +36,7 @@ Aqui está um exemplo básico de como usar o componente **CardInteractionOverlay
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:overlay="clr-namespace:ViewOverlayLib"
+             xmlns:overlay="clr-namespace:ViewOverlayLib.Classes;assembly=ViewOverlayLib"
              x:Class="YourProject.MainPage">
 
     <Grid>
